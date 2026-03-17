@@ -23,6 +23,14 @@ content_weekly/Week5_Transient/*
 uv.lock
 LPR_redux/
 
+# GIS files
+*.dbf
+*.prj
+*.sbn
+*.sbx
+*.shp
+*.shx
+
 # C extensions
 *.so
 
