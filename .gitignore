@@ -30,6 +30,9 @@ LPR_redux/
 *.sbx
 *.shp
 *.shx
+*.gdb
+*.cpg
+*.shp.xml
 
 # C extensions
 *.so
